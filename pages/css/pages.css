@@ -10,9 +10,139 @@ body {
     line-height: 1.5em;
     padding: 25px;
 }
+.body{
+    background-color:#E7E8E8;
 
+}
 img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
+    max-width: 100%; 
 }
 
-/* Voeg jouw css hieraan toe */
+.container1{
+    
+    display: block;
+    height: 100%;
+    width: 25%;
+    margin-left:20px;
+    background-color:#93BDFF;
+}
+
+.container2{
+    
+    margin-left: 20px;
+    height: 100%;
+    width:25%;
+    background-color:#5274d1;
+
+}
+
+.container3{
+    
+    margin-left: 20px;
+    height: 100%;
+    width:25%;
+    background-color:#dbe8e8;
+}
+
+.container4{
+    
+    margin-left: 20px;
+    height: 100%;
+    width:25%;
+    background-color:#e7e8e8;
+}
+
+.container5{
+    margin-left: 20px;
+    height: 100%;
+    width:25%;
+    background-color:#ffffff;
+    
+}
+
+.titel1{
+    color:#93BDFF;
+    font-family: 'phosphate ';
+    
+    
+}
+.titel2{
+    float: left;
+    color:#93BDFF;
+    font-family: 'phosphate ';
+}
+
+.titelbuttons{
+   
+    color:#93BDFF;
+    font-family: 'phosphate ';
+    text-align: justify;
+}
+
+.typografie{
+    float: left;
+}
+
+
+
+.display foto{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+
+.titel{
+    font-family:"phosphate Inline"; font-size:"1";
+  
+}
+
+.Tussentitel+navigatieknoppen{
+    font-family:"phosphate Solid"; font-size:"2";
+
+}
+
+.Tekst{
+    font-family:"Lato"; font-size:"4";
+}
+
+
+.fotoslettertypes1{
+    height: 190%;
+    width: 36%;
+    margin-left: 20px;
+}
+
+.button2{
+    background-color:aqua;
+    color: lightskyblue;
+    border:none;
+    text-align: :center;
+    padding: 14px 40px;
+    display: block;
+    font-size:20px;
+
+}
+
+img.fotos{
+    width:200px;
+    margin:10px;
+    margin-left:10px;
+    
+
+}
+
+.tekstbutton{
+    float: left;
+}
+
+img.buttons{
+    width:100px;
+    margin:10px;
+    margin-left:10px;
+    float: left;
+}
