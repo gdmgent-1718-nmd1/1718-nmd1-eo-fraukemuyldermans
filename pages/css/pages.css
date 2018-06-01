@@ -112,9 +112,16 @@ img {
 
 
 .fotoslettertypes1{
-    height: 190%;
-    width: 36%;
+    height: 50%;
+    width: 25%;
     margin-left: 20px;
+}
+
+.fotoslettertypes{
+    height: 50%;
+    width: 25%;
+    margin-left: 20px;
+
 }
 
 .button2{
